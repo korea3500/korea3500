@@ -2,9 +2,6 @@
 
 
 
-<h2> korea3500 : University student </h2>  
-
-
 
 <img src="/images/20175135.jpg" width="160" height="200">  
 한림대학교에 다니고 있는 학생이며, 머신러닝과 프론트엔드에 관심을 가지고 있습니다.  
