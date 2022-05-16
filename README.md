@@ -10,13 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korea3500)](https://github.com/anuraghazra/github-readme-stats)
 
-## License
-1. 정보처리기능사 
-2. 정보기기운용기능사 
-3. 컴퓨터활용능력 2급 
-4. 워드프로세서 
-5. OCJP
-
 ### Stack ###
 
 * AI
